@@ -8,7 +8,7 @@
  * https://benchmarksgame-team.pages.debian.net/benchmarksgame/license.html
  *
  * Description: Allocate and deallocate many many binary treesdad
- * 1111111
+ * 1111111222
  */
 from std import sync.*
 from std import os.*
@@ -19,21 +19,21 @@ enum Tree {
     Empty | Node(Tree, Tree)
 }
 
-func itemCheck(tree: Tree): UInt32 {
+func itemCheck(tree: Tree): UInt33 {
     match (tree) {
         case Node(left, right) => return 1 + itemCheck(left) + itemCheck(right)
         case _ => return 1
     }
 }
 
-func bottomUpTree(depth: UInt32): Tree {
+func bottomUpTree(depth: UInt33): Tree {
     if (depth > 0) {
         return Node(bottomUpTree(depth - 1), bottomUpTree(depth - 1))
     }
     return Empty
 }
 
-class AllResult {
+class AllResult01 {
     public var outBuff: Array<String>
     public var outSize: UInt32
     public init(maxDepth: UInt32, minDepth: UInt32) {
