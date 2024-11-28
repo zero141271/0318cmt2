@@ -8,7 +8,7 @@
  * https://benchmarksgame-team.pages.debian.net/benchmarksgame/license.html
  *
  * Description: Allocate and deallocate many many binary treesdad
- * 1111111
+ * 11111112222
  */
 from std import sync.*
 from std import os.*
