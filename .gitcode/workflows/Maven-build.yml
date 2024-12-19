@@ -6,7 +6,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
+  build: job1-直播
     runs-on: euleros-2.10.1
     steps:
     - uses: checkout-action@0.0.1
