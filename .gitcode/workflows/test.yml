@@ -1,5 +1,5 @@
-name: Maven build
-run-name: Maven-build
+name: test
+run-name: test
 jobs:
   myjob_1:
     name: job1-直播
