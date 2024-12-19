@@ -1,0 +1,30 @@
+name: Maven build
+run-name: Maven-build
+jobs:
+  myjob_1:
+    name: job1-直播
+    steps:
+      - name: my custom step
+        uses: official_shell_plugin
+        with:
+          OFFICIAL_SHELL_SCRIPT_INPUT: |-
+                                          echo 直播
+                                          sleep 11
+                                          echo 播
+      - name: my custom step
+        uses: official_shell_plugin
+        with:
+          OFFICIAL_SHELL_SCRIPT_INPUT: |-
+                                          echo start开始
+                                          sleep 30
+                                          echo end结束
+  myjob_2:
+    name: job2
+    steps:
+      - name: simple shell step
+        uses: official_shell_plugin
+        with:
+          OFFICIAL_SHELL_SCRIPT_INPUT: |-
+                                          echo start开始
+                                          sleep 60
+                                          echo end结束
