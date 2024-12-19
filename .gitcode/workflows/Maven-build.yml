@@ -17,6 +17,8 @@ jobs:
 
     myjob_2:
       name: job2
+      build:
+      runs-on: euleros-2.10.1
       steps:
         - name: simple shell step
           uses: official_shell_plugin
