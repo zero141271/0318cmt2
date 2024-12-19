@@ -1,29 +1,15 @@
 name: Maven build
 
 jobs:
-  myjob_1:
-    name: job1-直播
-    build:
-      runs-on: euleros-2.10.1
-      steps:
-      - uses: checkout-action@0.0.1
-      - name: Set up JDK 
-        uses: setup-java@0.0.1
-        with:
-          java-version: '8'
+  name: job1-直播
+  build:
+    runs-on: euleros-2.10.1
+    steps:
+    - uses: checkout-action@0.0.1
+    - name: Set up JDK 
+      uses: setup-java@0.0.1
+      with:
+        java-version: '8'
 
-      - name: Build with Maven
-        run:  cd repo_workspace && mvn -B package --file pom.xml
-
-    myjob_2:
-      name: job2
-      build:
-      runs-on: euleros-2.10.1
-      steps:
-        - name: simple shell step
-          uses: official_shell_plugin
-          with:
-            OFFICIAL_SHELL_SCRIPT_INPUT: |-
-                                            echo start开始
-                                            sleep 60
-                                            echo end结束
+    - name: Build with Maven
+      run:  cd repo_workspace && mvn -B package --file pom.xml
