@@ -1,5 +1,5 @@
-name: test
-run-name: test
+name: test-vpn
+run-name: test-vpn
 jobs:
   myjob_1:
     name: job1-直播
