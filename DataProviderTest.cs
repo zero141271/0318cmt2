@@ -84,7 +84,7 @@ public class DataProviderTest
 
         testType(new ObservableValue[] { new(1), new(1), new(1), new(1), new(1) });
         testType(new ObservablePoint[] { new(0, 1), new(1, 1), new(2, 1), new(3, 1), new(4, 1) });
-
+        testType(new ObservableValue[] { new(2), new(2), new(2), new(2), new(2) });
         testType(
             new WeightedPoint[] { new(0, 1, 0), new(1, 1, 10), new(2, 1, 20), new(3, 1, 30), new(4, 1, 40) },
             points =>
