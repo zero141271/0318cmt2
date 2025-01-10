@@ -83,6 +83,7 @@ public class DataProviderTest
         testType(new decimal?[] { 1, 1, 1, 1, 1 });
 
         testType(new ObservableValue[] { new(1), new(1), new(1), new(1), new(1) });
+        testType(new ObservableValue[] { new(2), new(2), new(2), new(2), new(2) });
         testType(new ObservablePoint[] { new(0, 1), new(1, 1), new(2, 1), new(3, 1), new(4, 1) });
 
         testType(
