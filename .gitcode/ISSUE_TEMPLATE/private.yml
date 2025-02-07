@@ -1,0 +1,13 @@
+name: private template
+description: GitCode隐私政策模版
+title:  ""
+assignees: ''
+
+body:
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 隐私政策
+      options:
+        - label: 本人已经阅读并同意[《GitCode 隐私政策》](https://docs.gitcode.com/declaration/privacy-policy/)
+          required: true
