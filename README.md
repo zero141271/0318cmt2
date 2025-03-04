@@ -11,7 +11,7 @@ https://gitee.com/openharmony-sig/arkanalyzer
 
 POM跳转地址[pom](./pom.xml)
 
-<img src="oh/test02.jpeg">
+<img src=oh/test02.jpeg>
 
 <img src="oh/Android1.PNG" width="50%"/>
 
