@@ -3,7 +3,7 @@ fffffgggg454545666
 ewqklejwqleqlwewq'
 kkkkkkkkkkkllllllllll
 
-<img src="./test04.jpg">
+<img src="./test04.png">
 
 <img src="https://test.gitcode.net/testyl001/test_template/attachment/uploads/bdf8189e-962e-45b4-af7c-22c35666a6ef/2ab53276a4ca8a54ad144a373fc49aeb.jpeg">
 
