@@ -1,8 +1,8 @@
-name: test-vpn
-run-name: test-vpn
+name: test111-vpn
+run-name: test111-vpn
 jobs:
   myjob_1:
-    name: job1-直播
+    name: job1-vpn
     steps:
       - name: my custom step
         uses: official_shell_plugin
