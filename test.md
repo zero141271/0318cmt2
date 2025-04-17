@@ -1,3 +1,7 @@
-22222233344455566677777
+```python
+def generate_matrix(issue_data):
+    issue_title = issue_data.get("title", "Unknown Issue")
+    issue_states = issue_data.get("issue_states", [])
+    relations = issue_data.get("relations", [])
 dsjd eyas dhasjkd
 dhsahf redam jdsad
