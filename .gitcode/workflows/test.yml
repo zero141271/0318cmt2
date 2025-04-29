@@ -1,0 +1,24 @@
+name: test111
+run-name: test111
+jobs:
+  myjob_1:
+    name: job123-vpn
+    steps:
+      - name: my custom step
+        uses: official_shell_plugin
+        with:
+          OFFICIAL_SHELL_SCRIPT_INPUT: |-
+                                          echo 直播
+                                          sleep 11
+                                          echo 播
+
+  myjob_2:
+    name: job2
+    steps:
+      - name: simple shell step
+        uses: official_shell_plugin
+        with:
+          OFFICIAL_SHELL_SCRIPT_INPUT: |-
+                                          echo start开始
+                                          sleep 60
+                                          echo end结束

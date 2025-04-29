@@ -1,0 +1,154 @@
+name: Bug Report
+description: GitCode工单模版
+title:  "2222"
+type: "任务"
+labels:  ["bug"]
+assignees: 'yinlin'
+
+body:
+
+  - type: textarea
+    id: bug_description
+    attributes:
+      label: 故障现象描述
+      placeholder: 
+    validations:
+      required: true  
+
+  - type: dropdown
+    id: affected-packages
+    attributes:
+      label: 负责团队
+      options:
+        - 用户中心
+        - 项目中心
+        - 主站搜索
+        - 用户体验
+        - 其它
+      multiple: false
+    validations:
+      required: true
+
+  - type: dropdown
+    id: env
+    attributes:
+      label: 发现环境
+      options:
+        - 测试环境(.net)
+        - 测试环境(.com)
+        - 预发环境
+        - 生产环境
+      default: 0
+      multiple: false
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: importance_level
+    attributes:
+      label: 重要程度
+      options:
+        - 致命
+        - 严重
+        - 一般
+        - 提示
+      default: 2
+      multiple: false
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: 领域
+      options:
+        - 功能
+        - 性能
+        - 网络安全
+        - 可靠性
+        - 浏览器兼容性
+        - 易用性
+      default: 1
+      multiple: false
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 优先级
+      options:
+        - 低
+        - 中
+        - 高
+      multiple: false
+    validations:
+      required: true
+
+  - type: dropdown
+    id: people
+    attributes:
+      label: 处理人
+      options:
+        - 郝磊
+        - 王占分
+        - 李坤
+        - 闫林普
+        - 杜鑫
+        - 熊佳牧
+        - 黄鹏
+        - 陈林
+        - 陈松柏
+        - 邓勐冕
+        - 冯龙辉
+        - 范嗣利
+        - 李嘉栋
+        - 李茂
+        - 刘奥林
+        - 刘高文
+        - 欧阳婉
+        - 宋毅
+        - 覃梦环
+        - 王文涛
+        - 吴明方
+        - 吴念
+        - 肖刚
+        - 徐兵
+        - 张红强
+        - 翟卓
+        - 张振
+        - 周宇翔
+        - 尹林
+        - 严凡
+        - 施强
+        - 贺京
+        - 万尊
+        - 胡贺
+      multiple: false
+    validations:
+      required: true
+
+  - type: dropdown
+    id: qa
+    attributes:
+      label: 测试人员
+      options:
+        - 杜鑫
+        - 尹林
+        - 严凡
+        - 施强
+      multiple: false
+    validations:
+      required: true
+  
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: 故障复现步骤
+      placeholder: 
+
+  - type: textarea
+    id: error_code
+    attributes:
+      label: F12查看错误码
+      placeholder: 
