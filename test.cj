@@ -22,7 +22,7 @@ enum Tree {
 func itemCheck(tree: Tree): UInt33 {
     match (tree) {
         case Node(left, right) => return 1 + itemCheck(left) + itemCheck(right)
-        case _ => return 1
+        case _ => return 2
     }
 }
 
