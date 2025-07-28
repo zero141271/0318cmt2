@@ -2,7 +2,7 @@
 >- fffffgggg454545666
 >- ewqklejwqleqlwewq'
 kkkkkkkkkkkllllllllll1111-vpn
-
+# 中文$$￥测试一下
 # 提示（括号）(英文)
 
 <img src="./test04.png">
