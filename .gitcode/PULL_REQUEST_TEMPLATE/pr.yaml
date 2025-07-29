@@ -1,5 +1,5 @@
 title: "PR模版"
-labels: ["fix"]
+labels: ["fix","bug"]
 assignees: 'FDH666'
 
 body:
