@@ -1,9 +1,0 @@
-title: "PR模版"
-labels: ["fix"]
-assignees: 'FDH666'
-
-body:
-  -type: markdown
-    attributes:
-      value:
-        ## test
