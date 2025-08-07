@@ -155,6 +155,10 @@ class FileManagement(object):
 
     def set_working_file(self, file_root: str) -> None:
         # check
+        /** 
+        代码文件注释测试 
+        第二行测试信息 
+        */
         if not os.path.exists(f"{file_root}.bed"):
             logging.error("The file %s does not exist!", file_root)
             sys.exit(-1)
