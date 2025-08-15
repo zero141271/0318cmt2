@@ -1,5 +1,5 @@
 /**
- * 这是一个Javadoc单行注释11。
+ * 这是一个Javadoc单行注释。
  * @param name 用户名
  * @return 欢迎语
  */
