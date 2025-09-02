@@ -20,6 +20,8 @@ dasdsaffsafsafaf
 
 <img src="https://raw.githubusercontent.com/QuentinFuxa/WhisperLiveKit/refs/heads/main/demo.png">
 
+![Image](https://github.com/user-attachments/assets/008efcac-0487-4678-b02a-84d4b630862d)
+
 
 <img src="./oh/IOS1.png">
 
