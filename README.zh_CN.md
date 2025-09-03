@@ -26,7 +26,7 @@ dasdsaffsafsafaf
 
 <img src="https://oscimg.oschina.net/oscnet/up-42e518aa72a24d228427a1261cb3679f395.png" width="300" height="316">
 
-<img src="https://img.shields.io/badge/any_text-xijinping-blue">
+<img src="https://img.shields.io/badge/vpn-blue">
 
 <img src="./oh/IOS1.png">
 
