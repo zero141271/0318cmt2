@@ -22,6 +22,7 @@ dasdsaffsafsafaf
 
 ![Image](https://github.com/user-attachments/assets/008efcac-0487-4678-b02a-84d4b630862d)
 
+<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue&">
 
 <img src="https://oscimg.oschina.net/oscnet/up-42e518aa72a24d228427a1261cb3679f395.png" width="300" height="316">
 
