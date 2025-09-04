@@ -31,3 +31,6 @@ dasdsaffsafsafaf
 <img src="./oh/IOS1.png">
 
 <img src="https://github.com/Realkai42/qwerty-learner/blob/master/docs/phonetic.jpeg">
+
+
+![IOS1.png](https://raw.gitcode.com/user-images/assets/4028582/07232c9d-34b2-4f81-862a-cb63141010b9/IOS1.png 'IOS1.png')
