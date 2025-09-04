@@ -28,7 +28,6 @@ dasdsaffsafsafaf
 
 <img src="https://img.shields.io/badge/any_text-vpn-blue">
 
-<img src="https://github.com/Realkai42/qwerty-learner/blob/master/docs/phonetic.jpeg">
 
 
 
