@@ -30,3 +30,4 @@ dasdsaffsafsafaf
 
 <img src="./oh/IOS1.png">
 
+<img src="https://github.com/Realkai42/qwerty-learner/blob/master/docs/phonetic.jpeg">
