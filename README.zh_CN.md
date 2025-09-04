@@ -11,7 +11,7 @@ GPG 严恒
 修改namespace后  重新用GPG提交
 
 wqoeuwioueoaudoiuasod
-djksadlaksjdasdsdlsjkd
+djksadlaksjdasdsdlsjkdrwqrqr
 dasdsaffsafsafaf
 
 <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/nangua_v2.jpg" width="300" height="316">
@@ -28,9 +28,12 @@ dasdsaffsafsafaf
 
 <img src="https://img.shields.io/badge/any_text-vpn-blue">
 
-<img src="./oh/IOS1.png">
-
 <img src="https://github.com/Realkai42/qwerty-learner/blob/master/docs/phonetic.jpeg">
 
 
-![IOS1.png](https://raw.gitcode.com/user-images/assets/4028582/07232c9d-34b2-4f81-862a-cb63141010b9/IOS1.png 'IOS1.png')
+
+===============
+
+![Android1.PNG](https://pre-raw.gitcode.com/user-images/assets/4028582/694b27b6-54d5-410c-827e-05cde2d6571c/Android1.PNG 'Android1.PNG')
+
+<img src="./oh/IOS1.png">
