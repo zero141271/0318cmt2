@@ -61,6 +61,5 @@ Flutter plugin for accessing information about the battery state(full, charging,
 
 
 本项目提供的清单02：
-
--AAAAAA
--BBBBB
+- AAAAAA
+- BBBBB
