@@ -42,3 +42,30 @@ dasdsaffsafsafafaaaaafdaggdag
 ======
 
 ![xiaoxin.jpg](https://raw.gitcode.com/user-images/assets/4028582/868addb0-2fd1-4d2b-b1af-809169c11a15/xiaoxin.jpg 'xiaoxin.jpg')
+
+
+
+
+## 其他问题反馈
+
+请描述您要提供的问题或反馈
+
+### 描述
+            
+<table style="width:1000px">
+  <col style="width:500px">
+  <col style="width:300px">
+  <col style="width:200px">
+  <tr>
+    <td>列1</td>
+    <td>列2</td>
+    <td>列3</td>
+  </tr>
+  <tr>
+    <td>内容</td>
+    <td>内容</td>
+    <td>内容</td>
+  </tr>
+</table>
+
+
