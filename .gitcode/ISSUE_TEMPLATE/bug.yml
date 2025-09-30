@@ -1,5 +1,6 @@
+name: bug模板
 description: GitCode工单模版
-title:  "2222"
+title:  "空白 issue"
 type: "任务"
 labels:  ["bug"]
 assignees: 'yinlin'
