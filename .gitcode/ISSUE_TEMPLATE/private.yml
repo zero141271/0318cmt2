@@ -1,8 +1,9 @@
 name: private template
 description: GitCode隐私政策模版
-title:  ""
-assignees: ''
-
+title:  "issue模板标题"
+labels: ["bug"]
+assignees: "yinlin"
+type: "缺陷"
 body:
   - type: checkboxes
     id: privacy
