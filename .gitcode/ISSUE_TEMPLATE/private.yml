@@ -3,7 +3,7 @@ description: GitCode隐私政策模版
 title:  "issue模板标题"
 labels: ["bug"]
 assignees: "yinlin"
-type: "任务"
+type: "bug"
 body:
   - type: checkboxes
     id: privacy
