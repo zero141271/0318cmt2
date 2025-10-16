@@ -3,7 +3,7 @@ description: GitCode工单模版
 title:  "空白 issue"
 type: "任务"
 labels:  ["bug"]
-assignees: "yinlin,duxin"
+assignees: "yinlin"
 
 body:
 
