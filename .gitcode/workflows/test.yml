@@ -2,7 +2,7 @@ name: test111
 run-name: test111
 jobs:
   myjob_1:
-    name: job123-vpn
+    name: job1
     steps:
       - name: my custom step
         uses: official_shell_plugin
