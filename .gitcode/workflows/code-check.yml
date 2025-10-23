@@ -1,0 +1,22 @@
+name: code-check
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  build:
+
+    runs-on: euleros-2.10.1
+
+    steps:
+      - name: codecheck-action_task_1
+        uses: codecheck-action@0.0.4
+        with:
+          repo_url: 'https://gitcode.com/Hello_worldsss/audit0829_yl.git'
+          branch: 'main'
+          rule_sets: '[{"language":"C++"},{"language":"JAVA"}]'
+          access_token: 'DMbEGL-dGJ4WeMEu-HL3Petd'
