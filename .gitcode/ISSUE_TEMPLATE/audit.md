@@ -4,7 +4,7 @@ about: 报告一个问题帮助我们改进
 title: BUG
 labels: "bug"
 assignees: "yinlin"
-type:  缺陷
+type:  bug
 
 ---
 
