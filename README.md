@@ -3,7 +3,6 @@
 <h1 align="center">Plus plugins</h1>
 <p align="center">
 <a href="https://flutter.dev/docs/development/packages-and-plugins/favorites" target="_blank" rel="noreferrer noopener">
-    <img src="./website/static/img/flutter-favorite-badge.png" width="20%" alt="build">
 </a>
 </p>
 
