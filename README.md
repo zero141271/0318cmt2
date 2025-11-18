@@ -63,3 +63,7 @@ Flutter plugin for accessing information about the battery state(full, charging,
 https://pre.atomgit.com
 
 https://atomgit.com
+
+https://pre.gitcode.com
+
+https://gitcode.com
