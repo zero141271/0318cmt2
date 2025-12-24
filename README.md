@@ -60,6 +60,22 @@ Flutter plugin for accessing information about the battery state(full, charging,
 2. 测试目录2
 
 
+#### 介绍
+{**以下是 Gitee 平台说明，您可以替换此简介**
+Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
+无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+
+## 有序列表序号中断问题
+
+1. 第一项
+ ```bash
+echo "hello"
+```
+2. 第二项
+3. 第三项
+
+
+
 https://pre.atomgit.com/Hello_worldsss
 
 https://atomgit.com/Hello_worldsss
