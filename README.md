@@ -1,5 +1,11 @@
 # 审核测试0829
 
+<img src="https://gitcode.com/will_csdn_go/qiluo_admin/star/2025top.svg?style=flat-square&logoSize=14"
+  alt="AtomGit GStar 2025" height="20">
+  <img src="https://img.shields.io/github/stars/chelunfu/qiluo_admin?style=flat-square&logo=github&color=ffcb2b&logoSize=14" alt="Stars" height="20">
+  <img src="https://atomgit.com/will_csdn_go/qiluo_admin/star/badge.svg?style=flat-square&logoSize=14" alt="AtomGit GStar" height="20">
+  <a href='https://gitee.com/chenlunfu/qiluo_admin/stargazers'><img src='https://gitee.com/chenlunfu/qiluo_admin/badge/star.svg?theme=dark' alt='star'></img></a>
+
 <h1 align="center">Plus plugins</h1>
 <p align="center">
 <a href="https://flutter.dev/docs/development/packages-and-plugins/favorites" target="_blank" rel="noreferrer noopener">
