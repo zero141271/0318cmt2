@@ -5,7 +5,7 @@
 
 ![图片](https://gitee.com/anyline/service/raw/master/db/)
 
-<img src="./测试.jpg">
+<img src="./oh/测试.jpg">
 
 <img src='https://github.com/liquibase/liquibase/blob/master/Liquibase.png'>
 
