@@ -1,0 +1,14 @@
+name: simple-test
+
+jobs:
+  hello-world:
+    runs-on: euleros-2.10.1
+    
+    steps:
+      - uses: checkout-action@0.0.1
+
+      - name: Print Hello
+        run: echo "🎉 流水线测试成功！环境正常！"
+
+      - name: List Files
+        run: ls -al
