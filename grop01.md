@@ -7,7 +7,7 @@
 配置 MindSpeed RL 基础环境以及准备代码: 参考 [安装指南](../install_guide.md)
 
 ## 数据预处理
-配置好环境后，需要对数据集进行预处理。
+配置好环境后，需要对数据集进行预处理eqweq。
 目前支持DeepScaler和Math-17k数据集，对于能力较弱的模型（如qwen2.5_7b），建议使用Math-17k数据集来训练，打分器配套使用math_17k_acc。
 
 如果使用 [**Math-17k**](https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k)，数据预处理操作如下：
