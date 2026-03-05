@@ -1,7 +1,7 @@
 name: private template
 description: GitCode隐私政策模版
 title:  "issue模板标题"
-labels: ["bug"]
+labels: ["企业label"]
 assignees: "yinlin"
 type: "bug"
 body:
