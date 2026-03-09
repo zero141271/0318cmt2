@@ -2,7 +2,7 @@ name: 空白 Issue
 description: GitCode工单模版
 title:  "空白 issue"
 type: "任务"
-labels:  ["企业label"]
+labels:  ["企业label003"]
 assignees: "yinlin"
 
 body:
