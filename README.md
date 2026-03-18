@@ -89,3 +89,24 @@ https://atomgit.com/Hello_worldsss
 https://pre.gitcode.com/Hello_worldsss
 
 https://gitcode.com/Hello_worldsss
+
+
+
+## 有序列表序号中断问题
+
+1. 第一项
+ ```bash
+echo "hello"
+```
+2. 第二项
+3. 第三项
+
+
+
+https://pre.atomgit.com/Hello_worldsss
+
+https://atomgit.com/Hello_worldsss
+
+https://pre.gitcode.com/Hello_worldsss
+
+https://gitcode.com/Hello_worldsss
